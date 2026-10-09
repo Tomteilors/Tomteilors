@@ -31,6 +31,10 @@
 <td><a href="https://t.me/whale_screener_hl_bot"><b>Whale Screener bot</b></a><br>Telegram bot tracking large Hyperliquid positions in real time.</td>
 </tr>
 <tr>
+<td align="center"><a href="https://github.com/Tomteilors/interfold-nodewatch"><img src="nodewatch.svg" width="56" alt="interfold-nodewatch"></a></td>
+<td><a href="https://github.com/Tomteilors/interfold-nodewatch"><b>interfold-nodewatch</b></a><br>Open-source CLI for Interfold ciphernode operators: status, watch &amp; alerts, Prometheus exporter, E3 inspector.</td>
+</tr>
+<tr>
 <td align="center"><a href="https://devpilot.studio"><img src="devpilot.png" width="56" alt="DevPilot Studio"></a></td>
 <td><a href="https://devpilot.studio"><b>DevPilot Studio</b></a><br>We build mobile apps, websites, games, Telegram bots and AI automations — from idea to App Store and Google Play.</td>
 </tr>
